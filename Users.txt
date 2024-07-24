@@ -1,0 +1,26 @@
+Teacher | 1 | Aamina Batool
+Teacher | 2 | Furqan Ashraf
+Teacher | 3 | Zeeshan Razaq
+Teacher | 4 | Irum Zahoor
+Teacher | 5 | Zariuddin
+Teacher | 6 | Hammad Naqvi
+Teacher | 7 | Uzair Naqvi
+Teacher | 8 | Tahir Ijaz
+Teacher | 9 | Zainab Mubarik
+Teacher | 10 | Abida Akram
+Director | Hammad Naveed
+Manager | IT | Saib Amir
+Manager | Admin | Ehab Qasim
+Manager | Accounts | Adil Hussain
+Employee | IT | EN1 | Ahmed Khan
+Employee | IT | EN2 | Fatima Riaz
+Employee | IT | EN3 | Mohammad Akhtar
+Employee | IT | EN4 | Aisha Malik
+Employee | Accounts | EN5 | Ali Hussain
+Employee | Accounts | EN6 | Zainab Farooq
+Employee | Accounts | EN7 | Omar Ali
+Employee | Accounts | EN8 | Sara Qureshi
+Employee | Admin | EN9 | Bilal Iqbal
+Employee | Admin | EN10 | Hina Shah
+Employee | Admin | EN11 | Ahmed Qureshi
+Employee | Admin | EN12 | Fatima Malik

@@ -1,0 +1,7 @@
+Resolved | 6 | IT | 5 | 5/5/2022 | *Internet Slow* | 7/5/2022 | *Speed has Been Increased*
+New | 1 | Admin | 3 | 3/10/2022 | *AC Not Working*
+Unresolved | 7 | Maintenance | 8 | 7/5/2022 | *Leaky Roof* | 7/10/2022 
+New | 3 | IT | 4 | 3/7/2022 | *PC Not Working*
+Complete | 4 | IT | 6 | 4/12/2022 | *Printer Jam* | 10/12/2022 | *Printer has been Fixed*
+Assigned | 2 | Accounts | 5 | 1/5/2022 | *Clear My Dues* | 2/5/2022
+Closed | 8 | Admin | 9 | 4/1/2022 | *Furniture Replacement* | 8/1/2022 | *Furniture has been replaced*

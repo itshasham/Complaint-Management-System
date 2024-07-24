@@ -1,0 +1,397 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--Detailed report on module Department-->
+<CCCC_Project>
+<module_summary>
+<lines_of_code value="153" level="0" />
+<lines_of_code_per_member_function value="******" level="0" />
+<McCabes_cyclomatic_complexity value="35" level="0" />
+<McCabes_cyclomatic_complexity_per_member_function value="******" level="2" />
+<lines_of_code value="0" level="0" />
+<lines_of_code_per_member_function value="********" level="0" />
+<lines_of_code_per_line_of_comment value="******" level="2" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="******" level="2" />
+<weighted_methods_per_class_unity value="22" level="0" />
+<weighted_methods_per_class_visibility value="22" level="0" />
+<depth_of_inheritance_tree value="0" level="0" />
+<number_of_children value="0" level="0" />
+<coupling_between_objects value="4" level="0" />
+<IF4 value="0" level="0" />
+<IF4_per_member_function value="********" level="0" />
+<IF4_visible value="0" level="0" />
+<IF4_visible_per_member_function value="********" level="0" />
+<IF4_concrete value="0" level="0" />
+<IF4_concrete_per_member_function value="********" level="0" />
+</module_summary>
+<module_detail>
+<description>definition</description>
+<source_reference file="Source.cpp" line="519" />
+<lines_of_code value="8" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</module_detail>
+<procedural_detail>
+<member_function>
+<name>AddEmployee(string,string,string)</name>
+<extent>
+<description>definition</description>
+<source_reference file="Source.cpp" line="547" />
+</extent>
+<lines_of_code value="3" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>AssignComplaintToEmployee(int,int)</name>
+<extent>
+<description>definition</description>
+<source_reference file="Source.cpp" line="571" />
+</extent>
+<lines_of_code value="5" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>CompleteComplaintIssue(int)</name>
+<extent>
+<description>definition</description>
+<source_reference file="Source.cpp" line="582" />
+</extent>
+<lines_of_code value="3" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>Department()</name>
+<extent>
+<description>definition</description>
+<source_reference file="Source.cpp" line="530" />
+</extent>
+<lines_of_code value="2" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>Department(string)</name>
+<extent>
+<description>definition</description>
+<source_reference file="Source.cpp" line="534" />
+</extent>
+<lines_of_code value="3" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>GetComplaintIndex(int,string)</name>
+<extent>
+<description>definition</description>
+<source_reference file="Source.cpp" line="595" />
+</extent>
+<lines_of_code value="16" level="0" />
+<McCabes_cyclomatic_complexity value="7" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="******" level="2" />
+</member_function>
+<member_function>
+<name>GetEmployeeComplaintIndex(int,int)</name>
+<extent>
+<description>definition</description>
+<source_reference file="Source.cpp" line="633" />
+</extent>
+<lines_of_code value="3" level="0" />
+<McCabes_cyclomatic_complexity value="1" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>GetEmployeeIndex(string)</name>
+<extent>
+<description>definition</description>
+<source_reference file="Source.cpp" line="561" />
+</extent>
+<lines_of_code value="9" level="0" />
+<McCabes_cyclomatic_complexity value="3" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>PrintComplaints(string)</name>
+<extent>
+<description>definition</description>
+<source_reference file="Source.cpp" line="637" />
+</extent>
+<lines_of_code value="22" level="0" />
+<McCabes_cyclomatic_complexity value="12" level="1" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="******" level="2" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="******" level="2" />
+</member_function>
+<member_function>
+<name>PrintComplaintsSummary(int,int,int,int,int,int)</name>
+<extent>
+<description>definition</description>
+<source_reference file="Source.cpp" line="660" />
+</extent>
+<lines_of_code value="20" level="0" />
+<McCabes_cyclomatic_complexity value="4" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="******" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>PrintEmployeeComplaints(int)</name>
+<extent>
+<description>definition</description>
+<source_reference file="Source.cpp" line="629" />
+</extent>
+<lines_of_code value="3" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>PrintEmployees()</name>
+<extent>
+<description>definition</description>
+<source_reference file="Source.cpp" line="619" />
+</extent>
+<lines_of_code value="9" level="0" />
+<McCabes_cyclomatic_complexity value="1" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>PrintManager()</name>
+<extent>
+<description>definition</description>
+<source_reference file="Source.cpp" line="612" />
+</extent>
+<lines_of_code value="6" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>ReceiveComplaint(string,string)</name>
+<extent>
+<description>definition</description>
+<source_reference file="Source.cpp" line="590" />
+</extent>
+<lines_of_code value="4" level="0" />
+<McCabes_cyclomatic_complexity value="1" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>RejectComplaintIssue(int)</name>
+<extent>
+<description>definition</description>
+<source_reference file="Source.cpp" line="586" />
+</extent>
+<lines_of_code value="3" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>RemoveEmployee(string)</name>
+<extent>
+<description>definition</description>
+<source_reference file="Source.cpp" line="551" />
+</extent>
+<lines_of_code value="9" level="0" />
+<McCabes_cyclomatic_complexity value="4" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>ResolveComplaintIssue(int,int,string)</name>
+<extent>
+<description>definition</description>
+<source_reference file="Source.cpp" line="577" />
+</extent>
+<lines_of_code value="4" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>SetManager(string,string)</name>
+<extent>
+<description>definition</description>
+<source_reference file="Source.cpp" line="538" />
+</extent>
+<lines_of_code value="8" level="0" />
+<McCabes_cyclomatic_complexity value="1" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>StoreEmployeesInFile(ofstream &amp;)</name>
+<extent>
+<description>definition</description>
+<source_reference file="Source.cpp" line="685" />
+</extent>
+<lines_of_code value="5" level="0" />
+<McCabes_cyclomatic_complexity value="1" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>StoreManagerInFile(ofstream &amp;)</name>
+<extent>
+<description>definition</description>
+<source_reference file="Source.cpp" line="691" />
+</extent>
+<lines_of_code value="3" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>ViewComplaint(int)</name>
+<extent>
+<description>definition</description>
+<source_reference file="Source.cpp" line="681" />
+</extent>
+<lines_of_code value="3" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+<member_function>
+<name>~Department()</name>
+<extent>
+<description>definition</description>
+<source_reference file="Source.cpp" line="695" />
+</extent>
+<lines_of_code value="2" level="0" />
+<McCabes_cyclomatic_complexity value="0" level="0" />
+<lines_of_comment value="0" level="0" />
+<lines_of_code_per_line_of_comment value="------" level="0" />
+<McCabes_cyclomatic_complexity_per_line_of_comment value="------" level="0" />
+</member_function>
+</procedural_detail>
+<structural_detail>
+<module>
+<name>Department</name>
+<client_module>
+</client_module>
+<supplier_module>
+<name>Manager</name>
+<visible>false</visible>
+<concrete>false</concrete>
+<extent>
+<description>has by reference</description>
+<source_reference file="Source.cpp" line="524" />
+</extent>
+<name>ofstream</name>
+<visible>true</visible>
+<concrete>false</concrete>
+<extent>
+<description>pass by reference</description>
+<source_reference file="Source.cpp" line="685" />
+</extent>
+<extent>
+<description>pass by reference</description>
+<source_reference file="Source.cpp" line="691" />
+</extent>
+<name>string</name>
+<visible>true</visible>
+<concrete>true</concrete>
+<extent>
+<description>has by value</description>
+<source_reference file="Source.cpp" line="523" />
+</extent>
+<extent>
+<description>pass by value</description>
+<source_reference file="Source.cpp" line="534" />
+</extent>
+<extent>
+<description>pass by value</description>
+<source_reference file="Source.cpp" line="538" />
+</extent>
+<extent>
+<description>pass by value</description>
+<source_reference file="Source.cpp" line="538" />
+</extent>
+<extent>
+<description>pass by value</description>
+<source_reference file="Source.cpp" line="547" />
+</extent>
+<extent>
+<description>pass by value</description>
+<source_reference file="Source.cpp" line="547" />
+</extent>
+<extent>
+<description>pass by value</description>
+<source_reference file="Source.cpp" line="547" />
+</extent>
+<extent>
+<description>pass by value</description>
+<source_reference file="Source.cpp" line="551" />
+</extent>
+<extent>
+<description>pass by value</description>
+<source_reference file="Source.cpp" line="561" />
+</extent>
+<extent>
+<description>pass by value</description>
+<source_reference file="Source.cpp" line="577" />
+</extent>
+<extent>
+<description>pass by value</description>
+<source_reference file="Source.cpp" line="590" />
+</extent>
+<extent>
+<description>pass by value</description>
+<source_reference file="Source.cpp" line="590" />
+</extent>
+<extent>
+<description>pass by value</description>
+<source_reference file="Source.cpp" line="595" />
+</extent>
+<extent>
+<description>pass by value</description>
+<source_reference file="Source.cpp" line="637" />
+</extent>
+<name>vector</name>
+<visible>false</visible>
+<concrete>true</concrete>
+<extent>
+<description>has by value</description>
+<source_reference file="Source.cpp" line="525" />
+</extent>
+<extent>
+<description>has by value</description>
+<source_reference file="Source.cpp" line="526" />
+</extent>
+</supplier_module>
+</module>
+</structural_detail>
+</CCCC_Project>
